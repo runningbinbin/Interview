@@ -1,0 +1,29 @@
+一、创建型
+	1.简单工厂(simple factory)
+ 	2.工厂方法(factory method)
+	3.抽象工厂(abstract factory)
+	4.单列(singleton)
+	5.生成器(builder)
+	6.原型(prototype)
+
+二、结构型
+	1.适配器(adapter)
+	2.装饰者(decorator)
+	3.外观(facade)
+	4.组合(composite)
+	5.代理(proxy)
+	6.桥接(bridge)
+	7.享元(flyweight)
+
+三、行为型
+	1.策略(strategy)
+	2.模板方法(template method)
+	3.观察者(observer)
+	4.迭代器(iterator)
+	5.命令(command)
+	6.状态(state)
+	7.职责链(chain of responsiblity)
+	8.访问者(visitor)
+	9.备忘录(memento)
+	10.中介者(mediator)
+	11.解释器(interpreter)
